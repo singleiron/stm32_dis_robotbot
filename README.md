@@ -12,3 +12,5 @@ eklemeler guncellemeler buradan paylasilabilir.
 //naber dostlar :)
  tamamdir edit yapinca acildi edit sayfasi 
  
+ 
+ ok sikint yok o vakit 
