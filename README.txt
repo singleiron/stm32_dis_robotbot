@@ -13,4 +13,4 @@ eklemeler guncellemeler buradan paylasilabilir.
  tamamdir edit yapinca acildi edit sayfasi 
  
  
- ok sikint yok o vakit 
+ ok sikint yok o vakit uzantiyi txt olarak degistirdim 
