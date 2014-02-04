@@ -10,3 +10,5 @@ eklemeler guncellemeler buradan paylasilabilir.
 " su degiswiklik yapilmistir gibi"
 
 //naber dostlar :)
+ tamamdir edit yapinca acildi edit sayfasi 
+ 
